@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with 3d model design
 - 📫 How to reach me: Karanjabrian382@gmail.com
 - 😄 Pronouns: ...he/him
-👯 I’m looking to collaborate on any fun project
+-👯 I’m looking to collaborate on any fun project
