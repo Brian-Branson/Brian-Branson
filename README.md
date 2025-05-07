@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on Game development
+- 🔭 I’m currently working on Front-end development
 - 🌱 I’m currently learning Web development
 - 🤔 I’m looking for help with 3d model design
 - 📫 How to reach me: Karanjabrian382@gmail.com
